@@ -3,7 +3,7 @@
 A **very friendly** and **aesthetic** portfolio built to **enforce my skills in HTML & CSS**.  
 
 Take a look at it in the screenshots below...  
-or better yet, **run it yourself** if you’re not too busy :)
+or better yet, **run it yourself** if you’re not too busy 
 
 ##  Preview
 ![Alt text](portfolio.png)
@@ -15,4 +15,4 @@ No setup needed — it's that simple
 
 ---
 
-Hope you enjoy it as much as I did building it :)))
+Hope you enjoy it as much as I did building it :)<3 
