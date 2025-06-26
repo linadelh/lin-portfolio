@@ -7,7 +7,7 @@ or better yet, **run it yourself** if you’re not too busy :)
 
 ##  Preview
 ![Alt text](portfolio.png)
-![Alt text](portfolio 2 .png)
+![Alt text](portfolio2.png)
 
 ##  How to Run
 Just open the `index.html` file in your browser.  
