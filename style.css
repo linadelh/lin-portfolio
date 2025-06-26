@@ -10,6 +10,12 @@
     scroll-behavior: smooth;
 }
 
+/* *{
+        }
+heda yaeni L ifont taena "Poppins" heda ra7 y t appliqua ela gae les element taena tae html  */
+
+
+
 header {
  
     background-color: #e7e9ca ; 
@@ -21,7 +27,7 @@ header {
     display : flex ; 
     justify-content: space-between;
     align-items: center ;
-    padding: 10px 200px ; 
+    padding: 5px 200px ; 
 }
 
 .logo {
@@ -39,13 +45,13 @@ header {
     text-decoration: none;
     color: black;
     font-size: 25px;
-   font-weight: 500px; 
    padding-left: 30px ;
 
 }
 
 .navigation a:hover  {
-    color : rgb(167, 167, 200) ;
+    color : rgb(167, 167, 200) ;   
+ /* hedi maenaha f la barre de navigation ki ndjo n7eto le cursur madabina une couleur tban */
 }
 
 section {
