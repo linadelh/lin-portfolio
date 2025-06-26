@@ -26,7 +26,7 @@ header {
 
 .logo {
    text-decoration: none ;
-   color: black;
+   color: rgb(49, 17, 0);
    text-transform: capitalize;
    font-size: 30px;
    font-weight: 700; 
@@ -187,7 +187,7 @@ section {
 }
 
 .projects {
-    background-color: rgb(27, 2, 2)
+    background-color: rgb(27, 11, 2)
 }
 
 .projects .content {
@@ -241,4 +241,41 @@ section {
 }
 .projects .title {
     color :rgb(113, 72, 49) ; 
+}
+
+#op {
+    font-size: x-small;
+    color : rgb(75, 42, 0)
+}
+
+.sorry {
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    flex-direction: column;
+    width: 100%;
+    padding: 200px ;
+   
+
+}
+
+.end {
+    background-color: rgb(75, 42, 0);
+    display: flex ;
+    justify-content: space-between;
+    padding : 1em ; 
+}
+
+.footer-title {
+    font-size: 1.2em ;
+    font-weight: 600 ;
+   color: rgb(146, 121, 106);
+    padding-top: 8px;
+}
+
+@media (max-width : 1023) {
+    header {
+        padding : 12px 20px ;
+    }
+
 }
