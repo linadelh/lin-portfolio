@@ -3,7 +3,7 @@
 A **very friendly** and **aesthetic** portfolio built to **enforce my skills in HTML & CSS**.  
 
 Take a look at it in the screenshots below...  
-or better yet, **run it yourself** if you’re not too busy 
+or better yet, **run it yourself** if you’re not too busy 🤣
 
 ##  Preview
 ![Alt text](portfolio.png)
@@ -11,7 +11,7 @@ or better yet, **run it yourself** if you’re not too busy
 
 ##  How to Run
 Just open the `index.html` file in your browser.  
-No setup needed — it's that simple 
+No setup needed.. it's that simple 
 
 ---
 
